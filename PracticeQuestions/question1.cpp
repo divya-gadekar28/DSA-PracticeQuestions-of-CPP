@@ -1,3 +1,4 @@
+//Que 1 : Subtract the product & sum of digits of n number
 #include<iostream>
 using namespace std;
 int main()
