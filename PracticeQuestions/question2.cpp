@@ -43,3 +43,11 @@ int main()
 
     return 0;
 }
+
+/* OUTPUT :-
+    enter a number :7
+    seven
+
+    enter a number :65
+    Greater than 9
+*/
