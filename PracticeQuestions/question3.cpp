@@ -23,3 +23,7 @@ int main()
     cout<<digit;
 }
 
+/* OUTPUT:-
+    enter any number : 67543
+    34576
+*/
